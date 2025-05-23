@@ -13,7 +13,7 @@ This is a simple desktop application developed in Java using Swing. It generates
 - Copy to clipboard button for easy copying
 
 ## Screenshot
-![Password Generator Application Screenshot](https://githu.com/roadw2k/password-generator/screenshot.jpg)
+![Password Generator Application Screenshot](https://github.com/Roadw2k/Password-Generator/blob/main/screenshot.jpg)
 ## Prerequisites
 - Java Development Kit (JDK) installed on your system. You can download it from [Oracle's official website](https://www.oracle.com/java/technologies/javase-downloads.html).
 
